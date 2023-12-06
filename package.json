@@ -4,7 +4,11 @@
   "description": "Social Media app",
   "main": "manage.py",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "py manage.py runserver",
+    "migrate": "py manage.py migrate",
+    "makemigration": "py manage.py makemigrations account",
+    "shell": "py manage.py shell"
   },
   "repository": {
     "type": "git",
