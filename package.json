@@ -1,0 +1,15 @@
+{
+  "name": "bookmarks",
+  "version": "1.0.0",
+  "description": "Social Media app",
+  "main": "manage.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bookmarks"
+  },
+  "author": "Hacedor",
+  "license": "ISC"
+}
